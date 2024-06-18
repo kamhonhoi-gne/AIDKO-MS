@@ -118,5 +118,6 @@ TOTMISMATCH: Total number of nucleotide mismatches from germline
 
 ## Citations
 
-* The manuscript is under review
+* Bao, K. et al. Activation-Induced Cytidine Deaminase Impacts the Primary Antibody Repertoire in Naive Mice. The Journal of Immunology 208, 2632–2642 (2022).
+
 
